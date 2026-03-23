@@ -1,1 +1,1 @@
-wss://egoez.me:5902
+wss://egoez.me/ws
