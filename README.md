@@ -1,1 +1,1 @@
-wss://egoez.me/ws
+http://localhost:443
