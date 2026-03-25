@@ -1,1 +1,1 @@
-wss://localhost:443
+ws://localhost:443
